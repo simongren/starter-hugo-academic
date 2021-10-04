@@ -22,7 +22,7 @@ abstract: "How should education be structured to most effectively increase civic
   evidence that deliberative education significantly increases civic
   competence."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
