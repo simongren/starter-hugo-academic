@@ -27,7 +27,7 @@ education:
       institution: University of Gothenburg
     - course: MSc in Economics
       institution: University of Gothenburg
-      year: 2019
+      year: 2018
     - course: BSc in Economics
       institution: University of Gothenburg
       year: 2016
