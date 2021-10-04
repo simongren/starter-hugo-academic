@@ -1,7 +1,7 @@
 ---
 role: PhD candidate in Political Science
 avatar_filename: simon.jpg
-bio: My research interests welfare service marketization and public opinons.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -23,19 +23,19 @@ organizations:
     url: https://www.gu.se/
 education:
   courses:
+    - course: PhD Candidate in Political Science
+      institution: University of Gothenburg
     - course: MSc in Economics
       institution: University of Gothenburg
       year: 2019
     - course: BSc in Economics
       institution: University of Gothenburg
       year: 2016
-    - course: PhD Candidate in Political Science
-      institution: University of Gothenburg
 superuser: true
 highlight_name: true
 title: Simon Gren
 email: ""
 ---
-Simon Gren is cool! 
+My research interests concern how marketization of welfare service affect public opinons.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
