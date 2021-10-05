@@ -7,6 +7,9 @@ interests:
   - Welfare Services
   - Marketization
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:simon.gren@gu.se'
   - icon: github
     icon_pack: fab
     link: https://github.com/lundinsimon
@@ -33,8 +36,8 @@ education:
       year: 2016
 superuser: true
 highlight_name: true
-title: Simon Gren the Third
-email: ""
+title: Simon Gren
+email: "simon.gren@gu.se"
 ---
 My research interests concern how marketization of welfare service affect public opinons.
 
