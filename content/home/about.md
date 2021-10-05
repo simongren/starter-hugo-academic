@@ -8,5 +8,5 @@ author: admin
 widget_id: Home
 design:
   background:
-    image: simon.jpg
+    image: ""
 ---
