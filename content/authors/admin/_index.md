@@ -37,7 +37,7 @@ education:
 superuser: true
 highlight_name: true
 title: Simon Gren
-email: "simon.gren@gu.se"
+email: ""
 ---
 My research interests concern how marketization of welfare service affect public opinons.
 
