@@ -6,4 +6,7 @@ title: Biography
 active: true
 author: admin
 widget_id: Home
+design:
+  background:
+    image: simon.jpg
 ---
