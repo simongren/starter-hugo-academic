@@ -7,9 +7,9 @@ interests:
   - Welfare Services
   - Marketization
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:simon.gren@gu.se'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:simon.gren@gu.se'
   - icon: github
     icon_pack: fab
     link: https://github.com/lundinsimon
