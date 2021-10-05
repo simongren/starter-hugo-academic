@@ -1,6 +1,6 @@
 ---
 role: PhD candidate in Political Science
-avatar_filename: simon.jpg
+avatar_filename: avatar.jpg
 bio: aaaaaa
 interests:
   - Public Opinion
