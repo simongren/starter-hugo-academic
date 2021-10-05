@@ -3,9 +3,9 @@ role: PhD candidate in Political Science
 avatar_filename: simon.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Public Opinion
+  - Welfare Services
+  - Marketization
 social:
   - icon: github
     icon_pack: fab
